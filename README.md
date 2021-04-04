@@ -1,4 +1,4 @@
- <h1 align="center">Dice Number/h1>
+Dice Number
 <p align="center">Dice Number Generator. Made with Flutter. Dart</p>
 <p align="center">
 
